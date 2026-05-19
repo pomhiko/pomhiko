@@ -13,6 +13,10 @@ CSVの列名変更・列順変更・列追加/削除を
 
 🔗 https://github.com/pomhiko/csv-reorder
 
+🔗https://x.com/pomhiko
+
+🔗https://note.com/pom_nero1225
+
 ---
 
 Next.js / TypeScript / Vercel / 個人開発
